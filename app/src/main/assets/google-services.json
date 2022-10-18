@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1061583386795",
+    "firebase_url": "https://office-3aec1-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "office-3aec1",
+    "storage_bucket": "office-3aec1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061583386795:android:a10574a71b04bb0e6d1fee",
+        "android_client_info": {
+          "package_name": "com.example.office"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061583386795-lnncnqm0ka7e96tnolpnu22nh1bvvvde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu5TxNlOMnK1o4y2-fkdxqAP9BtRQTXzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061583386795-lnncnqm0ka7e96tnolpnu22nh1bvvvde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

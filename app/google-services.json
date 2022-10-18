@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "476004902020",
+    "project_id": "anpr-official",
+    "storage_bucket": "anpr-official.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476004902020:android:616f30b6a8fa36146e0ed1",
+        "android_client_info": {
+          "package_name": "com.example.office"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476004902020-4gfot9704qurvavmar3pam4g6d583kk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgoQZxAvEwKTzqb8EV8KJzBAn-gBAMnGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476004902020-4gfot9704qurvavmar3pam4g6d583kk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
