@@ -58,7 +58,7 @@ public class parking extends AppCompatActivity implements View.OnClickListener {
         verify=(Button)findViewById(R.id.verify);
         right = findViewById(R.id.right);
         left = findViewById(R.id.left);
-
+//euiheuihuifheuifheuiz
 
         //connect to database and get the capacity of the parking + the number of available places
         int i, j = capacity - freeSpace;
